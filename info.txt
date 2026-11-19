@@ -1,0 +1,10 @@
+Stage	Topic	Why it matters
+1	Core Python: variables, types, strings, lists, dicts, loops, functions	Everything else builds on it
+2	Python for data: comprehensions, files, classes (basic), errors	Data cleaning and reusable code
+3	NumPy: arrays, shapes, vectorization, broadcasting	All ML libraries run on it
+4	Pandas: DataFrames, filtering, groupby, missing values	About 70% of real ML work is data prep
+5	Matplotlib: line, scatter, histogram	Seeing your data and results
+6	Scikit-learn: train/test split, regression, classification, metrics	Your first real models
+7	ML concepts: overfitting, cross-validation, feature engineering	Why models fail or succeed
+8	Deep learning (TensorFlow/Keras): neural networks	You already have it installed
+9	Projects: house price, classification, then a small neural net	Where the learning sticks

@@ -1,0 +1,27 @@
+﻿# Virtual environments
+tf_env/
+ml_env/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Secrets
+.env
+
+# Data / models (large files)
+data/
+*.joblib
+*.pkl
+*.h5
+*.keras
+
+# OS / editor
+.DS_Store
+Thumbs.db
