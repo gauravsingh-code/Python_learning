@@ -8,3 +8,13 @@ Stage	Topic	Why it matters
 7	ML concepts: overfitting, cross-validation, feature engineering	Why models fail or succeed
 8	Deep learning (TensorFlow/Keras): neural networks	You already have it installed
 9	Projects: house price, classification, then a small neural net	Where the learning sticks
+
+
+Phase - 01
+Dictionary : 
+Use d[key] when the key must exist. Use d.get(key, default) when it might not.
+.items() gives you (key, value) pairs to loop over.
+"city" in house checks the keys, not the values.
+
+
+
