@@ -35,7 +35,7 @@ Each step is one file in `practice/`.
 | Step | Topic | Must-know |
 |---|---|---|
 | 01 ✅ | Variables, types, lists, loops, comprehensions | done |
-| 02 | Dicts, sets, tuples, unpacking | `dict.get`, `.items()`, dict comprehension |
+| 02 | Dicts, sets, tuples, unpacking | `dict.get`, `.items()`, dict comprehension | done |
 | 03 | Functions | default args, `*args/**kwargs`, `lambda`, `map/filter/sorted(key=)` |
 | 04 | Strings & file I/O | f-strings, `split/join/strip`, `open`, `json`, `csv` |
 | 05 | Error handling & modules | `try/except`, `import`, `if __name__ == "__main__"` |

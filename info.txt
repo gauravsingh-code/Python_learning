@@ -17,4 +17,10 @@ Use d[key] when the key must exist. Use d.get(key, default) when it might not.
 "city" in house checks the keys, not the values.
 
 
+-m means run a Python module as a script.
+py -m venv venv -> activate with `venv\Scripts\activate` on Windows or `source venv/bin/activate` on Unix
+python -m pip freeze > requirements.txt  -> saves the current environment's packages to a file
+
+
+
 
